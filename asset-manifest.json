@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Dashboard/static/css/main.dac362f4.css",
+    "main.js": "/Simple-Dashboard/static/js/main.66246b4f.js",
+    "index.html": "/Simple-Dashboard/index.html",
+    "main.dac362f4.css.map": "/Simple-Dashboard/static/css/main.dac362f4.css.map",
+    "main.66246b4f.js.map": "/Simple-Dashboard/static/js/main.66246b4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac362f4.css",
+    "static/js/main.66246b4f.js"
+  ]
+}
